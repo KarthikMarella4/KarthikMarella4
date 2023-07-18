@@ -2,7 +2,7 @@
 🔭 I’m passionate about Devops<br>
 🌱 I’m currently learning AWS And Devops<br>
 💬 Ask me about #Aws,#Devops,#Cloud<br>
-<img algin="middle" alt="Devops" width="800" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+<img algin="middle" alt="Devops" width="800" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik.__.marella?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-marella-480243212/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iam_karthik4) 
