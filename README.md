@@ -1,7 +1,7 @@
 # Hi👋,I'm Karthik Marella
-🔭 I’m passionate about Devops<br>
-🌱 I’m currently learning AWS And Devops<br>
-💬 Ask me about #Aws,#Devops,#Cloud<br>
+🔭 I’m passionate about AI,LLM,MLOps<br>
+🌱 I’m currently learning MLOps,LLMOps<br>
+💬 Ask me about #Aws,#Devops,#Cloud,#GenAI,#LLM<br>
 <img algin="middle" alt="Devops" width="600" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ## 🌐 Socials:
