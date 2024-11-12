@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karthik Marella</h1>
 <h3 align="center">A passionate AI&ML Enthusiast</h3>
 
-
-
+<img align = "right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px">
 - 📫 How to reach me **karthikmarella24@gmail.com**
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_karthik4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_karthik4" height="30" width="40" /></a>
