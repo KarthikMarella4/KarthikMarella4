@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Enthusiast</h3>
 
 <img align = "right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px">
-- 📫 How to reach me **📧 karthikmarella24@gmail.com**
+- 📫 How to reach me karthikmarella24@gmail.com
 
 
  
